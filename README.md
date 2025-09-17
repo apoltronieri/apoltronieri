@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3CB371&fontAlign=10&reversal=true"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB371&width=500&lines=Hi,+I+am+Ana)](https://git.io/typing-svg) 
 
 ---
