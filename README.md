@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3CB371&fontAlign=10&reversal=true"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&color=3061E3&width=435&lines=Hi,+I+am+Ana%2C+Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&color=3061E3&width=435&lines=Hi,+I+am+Ana%2C+Welcome+to+my+Github+profile+)](https://git.io/typing-svg)
  
 ---  
 ---
