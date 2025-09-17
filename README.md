@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=3CB371&width=800&lines=0101010101010101;1010101010101010;1100101010101100;1010101110001010)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100%" alt="Matrix Code Rain">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB371&width=500&lines=Hi,+I+am+Ana)](https://git.io/typing-svg) 
 
 ---
