@@ -8,24 +8,35 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
+---
 
 <p align="center">
-  Estudante do 4º semestre de <b>Engenharia de Software</b> na <b>Universidade Federal do Pampa</b>.  
+  Software Engineering undergraduate student at <b>Federal University of Pampa (UNIPAMPA)</b>.  
 </p>
 
-#
+---
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="study gif" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3CB371)](mailto:poltronierianacarolina@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4682B4)](https://www.linkedin.com/in/ana-carolina-poltronieri-rodrigues-033243360)
-
+## Get in touch  
 
 <div align="center">
-  <h3> Tech Stack</h3>
+
+  <a href="mailto:poltronierianacarolina@gmail.com">
+    <img src="https://img.shields.io/badge/Outlook-3CB371?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ana-carolina-poltronieri-rodrigues-033243360">
+    <img src="https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+## Tech Stack  
+
+<div align="center">
   
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=3CB371)
   ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=3CB371)
@@ -35,31 +46,34 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4682B4)
   ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=3CB371)
   ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=4682B4)
+
 </div>
 
-### Research & Focus  
+---
 
-- 🎓 Estudante de **Engenharia de Software** na UNIPAMPA  
-- 👩‍💻 Integrante do **[Gurias of Code](https://www.instagram.com/guriasofcode/)**  
-- 🔍 Interesse em **Qualidade de Software, Testes e DSLs**  
-- ✅ Experiência prática com **Selenium** e **testes em Java**  
-- 🐍 Conhecimentos em **Python** e **SQLAlchemy**  
+## Research & Focus  
 
+- 🎓 Software Engineering undergraduate at **UNIPAMPA**  
+- 👩‍💻 Member of **[Gurias of Code](https://www.instagram.com/guriasofcode/)**  
+- ✅ Practical experience with **Selenium** and **Java testing**  
+- 💡 Interests in **DSLs** and **Language Workbenches**  
 
-#
+---
+
+## GitHub Stats  
 
 <div align="center">
-  <h3>GitHub Stats</h3>
   
   <img src="https://github-readme-stats.vercel.app/api?username=apoltronieri&show_icons=true&bg_color=000000&title_color=3CB371&text_color=FFFFFF&icon_color=3CB371&border_color=4682B4&hide_border=false" />
   
   <img src="https://streak-stats.demolab.com?user=apoltronieri&background=000000&ring=3CB371&fire=3CB371&currStreakLabel=4682B4&sideNums=FFFFFF&currStreakNum=3CB371&sideLabels=3CB371&dates=8B8B8B&hide_border=false" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=apoltronieri&theme=onestar&title=Commit,Issues,Repositories,Stars,PullRequest&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15&title_color=3CB371" />
+  <img src="https://github-profile-trophy.vercel.app/?username=apoltronieri&theme=onestar&no-frame=true&no-bg=true&row=1&column=3&title=Commit,Repositories,Stars&title_color=3CB371" />
 </div>
 
+---
 
-#
+## Contribution Graph  
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apoltronieri/Ana/output/github-contribution-grid-snake-dark.svg">
