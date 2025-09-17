@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=0101010101%20Matrix%20Mode%2001010101&fontColor=3CB371&fontSize=30&animation=fadeIn" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Eybmd2Y2RtamZhNGdnYWlvZTZvMzh6ZG5ucXk0NXNpdzRycjFnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width="100%" height="250px" alt="Matrix Code Rain">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB371&width=500&lines=Hi,+I+am+Ana)](https://git.io/typing-svg) 
 
