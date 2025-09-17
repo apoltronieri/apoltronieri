@@ -8,7 +8,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
----
 
 <p align="center">
   🌱 Hi! I'm <b>Ana Carolina</b>, a 4th-semester <b>Software Engineering</b> student at  
@@ -20,7 +19,7 @@
   I’m always eager to learn, collaborate, and create solutions.
 </p>
 
----
+
 
 <img align="right" alt="study gif" height="190px" src="./src/study.gif">
 
