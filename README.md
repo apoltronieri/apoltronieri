@@ -1,15 +1,5 @@
 # Hello there, I am Ana ⛾  
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3CB371&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+. +%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
-#
-
 
 <p align="center">
   🌱 Hi! I'm <b>Ana Carolina</b>, a 4th-semester <b>Software Engineering</b> student at  
