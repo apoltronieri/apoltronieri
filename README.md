@@ -47,10 +47,8 @@
 
 </div>
 
-## Skyline-style Contribution Graph
+## Octocat Walker  
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apoltronieri/apoltronieri/output/skyline-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apoltronieri/apoltronieri/output/skyline-light.png">
-  <img align="center" alt="Skyline style contribution graph" src="https://raw.githubusercontent.com/apoltronieri/apoltronieri/output/skyline-light.png">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/apoltronieri/apoltronieri/output/octocat.svg" alt="octocat walker animation" />
+</p>
