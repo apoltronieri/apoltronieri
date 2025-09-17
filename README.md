@@ -11,14 +11,20 @@
 ---
 
 <p align="center">
-  Software Engineering undergraduate student at <b>Federal University of Pampa (UNIPAMPA)</b>.  
+  🌱 Hi! I'm <b>Ana Carolina</b>, a 4th-semester <b>Software Engineering</b> student at  
+  <b>Federal University of Pampa (UNIPAMPA)</b>.  
+  <br><br>
+  Passionate about building solid foundations in software development,  
+  exploring <b>testing</b>, <b>DSLs</b>, and <b>language workbenches</b>.  
+  <br><br>
+  I’m always eager to learn, collaborate, and create solutions.
 </p>
 
 ---
 
 <img align="right" alt="study gif" height="190px" src="./src/study.gif">
 
-## Get in touch  
+##  Get in touch  
 
 <div align="center">
 
@@ -34,7 +40,7 @@
 
 ---
 
-## Tech Stack  
+##  Tech Stack  
 
 <div align="center">
   
@@ -51,15 +57,6 @@
 
 ---
 
-## Research & Focus  
-
-- 🎓 Software Engineering undergraduate at **UNIPAMPA**  
-- 👩‍💻 Member of **[Gurias of Code](https://www.instagram.com/guriasofcode/)**  
-- ✅ Practical experience with **Selenium** and **Java testing**  
-- 💡 Interests in **DSLs** and **Language Workbenches**  
-
----
-
 ## GitHub Stats  
 
 <div align="center">
@@ -67,8 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=apoltronieri&show_icons=true&bg_color=000000&title_color=3CB371&text_color=FFFFFF&icon_color=3CB371&border_color=4682B4&hide_border=false" />
   
   <img src="https://streak-stats.demolab.com?user=apoltronieri&background=000000&ring=3CB371&fire=3CB371&currStreakLabel=4682B4&sideNums=FFFFFF&currStreakNum=3CB371&sideLabels=3CB371&dates=8B8B8B&hide_border=false" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=apoltronieri&theme=onestar&no-frame=true&no-bg=true&row=1&column=3&title=Commit,Repositories,Stars&title_color=3CB371" />
 </div>
 
 ---
