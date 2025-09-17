@@ -21,7 +21,8 @@
 ## GitHub Stats (3 blocos: geral, streak e linguagens)
 
 ```markdown
-## GitHub Stats  
+## GitHub Stats
+```
 
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=apoltronieri&show_icons=true&bg_color=000000&title_color=3CB371&text_color=FFFFFF&icon_color=3CB371&border_color=4682B4&hide_border=false"/>
