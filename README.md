@@ -2,8 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB371&width=500&lines=Hi,+I+am+Ana)](https://git.io/typing-svg) 
----  
----
+˚º˚º˚º---
 ## About Me  
 
 ```bash
@@ -47,10 +46,8 @@
 
 </div>
 
-## 🐍 Contribution Graph  
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apoltronieri/Ana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apoltronieri/Ana/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apoltronieri/Ana/output/github-contribution-grid-snake.svg">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apoltronieri/apoltronieri/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apoltronieri/apoltronieri/output/github-contribution-grid-snake.svg">
+  <img alta="github contribution grid snake animation" src="https://raw.githubusercontent.com/apoltronieri/apoltronieri/output/github-contribution-grid-snake.svg">
 </picture>
