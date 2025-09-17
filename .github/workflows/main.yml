@@ -1,28 +1,28 @@
-name: Generate Skyline-style Contribution Graph
+name: Generate Octocat Walker
 
 on:
   schedule:
-    # executa todo dia às 00:00 UTC
-    - cron: "0 0 * * *"
-  push:
-    branches: ["main"]
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite
+  workflow_dispatch:       # permite rodar manualmente
 
 jobs:
-  build-skyline:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate contribution data
-        # supondo que você use um script que pega o histórico de commits e gera gráfico
-        run: |
-          python scripts/generate_skyline.py --user apoltronieri --output output/skyline.png
-
-      - name: Commit and push graphic
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Generate Octocat walker
+        uses: YihanWu/octocat-commits@main
         with:
-          commit_message: "Update Skyline graphic"
-          file_pattern: "output/skyline.png"
-          branch: output
+          user_name: apoltronieri   # 👈 seu user GitHub
+          theme: github-dark        # opções: github-dark, github-light
+          output_path: ./octocat.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
