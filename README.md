@@ -54,11 +54,11 @@
 <div align="center">
   <h3>GitHub Stats</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=apoltronieri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apoltronieri&show_icons=true&bg_color=000000&title_color=3CB371&text_color=FFFFFF&icon_color=3CB371&border_color=4682B4&hide_border=false" />
   
-  <img src="https://streak-stats.demolab.com?user=apoltronieri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=apoltronieri&background=000000&ring=3CB371&fire=3CB371&currStreakLabel=4682B4&sideNums=FFFFFF&currStreakNum=3CB371&sideLabels=3CB371&dates=8B8B8B&hide_border=false" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=apoltronieri&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=apoltronieri&theme=onestar&title=Commit,Issues,Repositories,Stars,PullRequest&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15&title_color=3CB371" />
 </div>
 
 
