@@ -15,7 +15,7 @@
 > Practical experience with Selenium and Java Testing
 > Knowledge in Python and SQLAlchemy
 > Always learning and exploring new technologies
-
+```
 ---
 
 ## GitHub Stats (3 blocos: geral, streak e linguagens)
