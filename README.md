@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="100%" alt="Matrix Code Rain">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=0101010101%20Matrix%20Mode%2001010101&fontColor=3CB371&fontSize=30&animation=fadeIn" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3CB371&width=500&lines=Hi,+I+am+Ana)](https://git.io/typing-svg) 
 
 ---
