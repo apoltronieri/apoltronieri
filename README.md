@@ -8,7 +8,6 @@
 ```bash
 > Software Engineering student @ UNIPAMPA
 > Member of Gurias of Code
-> Focused on Software Quality, Testing and DSLs
 > Practical experience with Selenium and Java Testing
 > Knowledge in Python and SQLAlchemy
 > Always learning and exploring new technologies
