@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3CB371&fontAlign=10&reversal=true"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&pause=1000&color=3CB371&center=true&vCenter=true&width=500&lines=Hello+I+am+Ana;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&color=3061E3&width=435&lines=Hi,+I+am+Ana%C3%A1%2C+Welcome+to+my_Github+profile)](https://git.io/typing-svg)
+ 
+---  
 ---
 ## About Me  
 
