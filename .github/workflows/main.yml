@@ -15,7 +15,7 @@ jobs:
       - name: Generate Octocat walker
         uses: YihanWu/octocat-commits@main
         with:
-          user_name: apoltronieri   # 👈 seu user GitHub
+          user_name: apoltronieri  
           theme: github-dark        # opções: github-dark, github-light
           output_path: ./octocat.svg
 
