@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=22&pause=1000&color=3CB371&center=true&vCenter=true&width=500&lines=Hello,+I+am+Ana;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&pause=1000&color=3CB371&center=true&vCenter=true&width=500&lines=Hello+I+am+Ana;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 </div>
 
 ## About Me  
